@@ -1,3 +1,6 @@
+# Original Repository
+https://github.com/tdd-workshops/tdd-lab-login-form-java-spring-mvc
+
 # Login Form Demo
 
 This repository contains a simple web application written in Java & Spring Boot.
@@ -87,3 +90,7 @@ TBC
 6. `GET /users/logout`
 
    URL for logging out of the application.
+
+
+## Environment Versions
+Java SDK 17
